@@ -1,2 +1,2 @@
 # goda
-Data analysis for golang
+Data analysis tools for golang
